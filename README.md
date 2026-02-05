@@ -1,6 +1,5 @@
 ### **Kaprekar’s Constant (6174) / Odyssey**  
 
-```text
 Begin anywhere.  
 Rearrange, subtract, repeat.  
 The system converges.  
@@ -22,4 +21,3 @@ be the point.
 One is what remains  
 when all paths are exhausted.  
 The other is the memory of choosing to walk them.
-```
