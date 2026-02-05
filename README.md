@@ -1,12 +1,23 @@
-> **Kaprekar’s Constant (6174)**  
+> **Kaprekar’s Constant (6174) / Odyssey**  
 >  
-> Take any four-digit number with at least two distinct digits.  
-> Rearrange its digits in descending and ascending order, subtract the smaller from the larger, and repeat.  
+> Begin anywhere.  
+> Rearrange, subtract, repeat.  
+> The system converges.  
 >  
-> The process always converges — not by choice, but by constraint.  
+> You will arrive at **6174** —  
+> not because you intended to,  
+> but because the space allows no other ending.  
 >  
-> **6174** is not constructed, not searched for,  
-> but *inevitably reached*:  
-> an attractor in a finite, discrete system,  
-> where entropy is normalized by repetition  
-> and only what the rules permit can remain.
+> And yet the journey is not invalidated.  
+>  
+> The repetitions, the detours,  
+> the moments that look like error  
+> are the only places where meaning appears.  
+>  
+> 6174 is the inevitable destination.  
+> The Odyssey is the refusal to let arrival  
+> be the point.  
+>  
+> One is what remains  
+> when all paths are exhausted.  
+> The other is the memory of choosing to walk them.
